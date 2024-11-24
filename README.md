@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Embedded systems projects,c/c++ projects.
 - 📫 reach me Mail-rezwanbasheer0002@gmail.com.
 - ⚡ Fun fact:a problem a day keeps ur placement fear away 
-
+YT demonstartion link-https://youtu.be/5-6wZcI21LE?si=d-51qDfIVQQc-pcn
 Obstacle Avoiding Robot Using Raspberry Pi Pico
 This project demonstrates an obstacle-avoiding robot using the Raspberry Pi Pico. The robot is programmed in MicroPython and optionally supports development in Arduino IDE. It features an ultrasonic sensor for detecting obstacles, a servo motor for wider sensing coverage, and autonomous movement capabilities.
 
